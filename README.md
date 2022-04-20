@@ -22,7 +22,7 @@ As given in the questions the script outputs the file after operation to another
     Word: <word> - Count of repetition: <count>
     .
     .
-### NOTE : Only the words which were repeated (having more than one occurence) are being printed
+### NOTE : In Q3(e), only the words which were repeated (having more than one occurence) are being printed
 
 ## Question 4
 ### Instructions to Run
